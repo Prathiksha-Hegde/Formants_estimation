@@ -7,5 +7,5 @@ output: 2. formant_2- array of formant 2(F2) of the signal of length= number of 
 Plot 1: Plot for Formant 1 vs Formant 2 of the voiced part of the audio signal<br />
 Plot 2: Plot for formant trajectory<br />
 
-Here, the threshold to extract voiced part of the signal is selected by selecting the signal only above a certain amplitude.
+Here, the threshold to extract voiced part of the signal is chosen by selecting the signal only above a certain amplitude.
   
